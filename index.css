@@ -1,0 +1,22 @@
+#compiler{
+    background-color: black;
+    height:100px;
+    width:auto;
+    color:white;
+  }
+  textarea{
+    width: 500px;
+    height: 300px;
+    overflow: y;
+  }
+  body{
+    padding:20px;
+    margin:20px;
+    display: flex;
+  }
+  h2{
+    flex: 1;
+  }
+  select{
+    flex:1;
+  }
